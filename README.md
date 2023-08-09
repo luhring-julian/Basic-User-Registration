@@ -1,3 +1,5 @@
+## Basic User Registration
+
 This project was developed during the course "Basic Programming in Back-End" given by Instituto SESI/SENAI of Santa Catarina/Brazil.
 
 It uses JavaScript, MongoDB, Express.js and Node.js to create a mini non-relational database for user registration with Name, Login and Password.
