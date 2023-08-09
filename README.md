@@ -1,6 +1,8 @@
-Projeto desenvolvido durante o curso "Programação Básica em Back-End" ministrado pelo Instituto SESI/SENAI de SC.
-Utiliza JavaScript, MondgoDB, Express.js e Node.js para criação de um minibanco de dados não relacional para cadastro de usuário com Nome, Login e Senha.
-Foi utilizada versão 6.11.5 do Mongoose durante o desenvolvimento deste código.
+This project was developed during the course "Basic Programming in Back-End" given by Instituto SESI/SENAI of Santa Catarina/Brazil.
+
+It uses JavaScript, MongoDB, Express.js and Node.js to create a mini non-relational database for user registration with Name, Login and Password.
+
+Mongoose 6.11.5 was used during the development of this code, since version 7+ don't support callback in some function used.
 
 <!--
 # Node.js template
